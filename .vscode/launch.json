@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "SoccerFixtureGeneratorUI",
+            "request": "launch",
+            "mainClass": "com.example.soccer.SoccerFixtureGeneratorUI",
+            "projectName": ""
+        }
+    ]
+}
